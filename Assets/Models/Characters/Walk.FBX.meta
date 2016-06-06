@@ -49,6 +49,23 @@ ModelImporter:
     100082: Strong_R_Wrist
     100084: Strong_Spine
     100086: //RootNode
+    100088: Chest_Ctrl
+    100090: Head_ctrl
+    100092: L_Arm_IKgoal
+    100094: L_Fingers_ctrl
+    100096: L_Foot_Ctrl
+    100098: L_FootTip_Ctrl
+    100100: L_Hand_Ctrl
+    100102: L_Leg_IKgoal
+    100104: L_Thumb_ctrl
+    100106: R_Arm_IKgoal
+    100108: R_fingers_Ctrl
+    100110: R_Foot_Ctrl
+    100112: R_FootTip_Ctrl
+    100114: R_Hand_Ctrl
+    100116: R_Leg_IKgoal
+    100118: R_Thumb_ctrl
+    100120: Spine_IKgoal
     400000: Forte
     400002: L_Shoulder_Ctrl
     400004: Main_Ctrl
@@ -93,6 +110,23 @@ ModelImporter:
     400082: Strong_R_Wrist
     400084: Strong_Spine
     400086: //RootNode
+    400088: Chest_Ctrl
+    400090: Head_ctrl
+    400092: L_Arm_IKgoal
+    400094: L_Fingers_ctrl
+    400096: L_Foot_Ctrl
+    400098: L_FootTip_Ctrl
+    400100: L_Hand_Ctrl
+    400102: L_Leg_IKgoal
+    400104: L_Thumb_ctrl
+    400106: R_Arm_IKgoal
+    400108: R_fingers_Ctrl
+    400110: R_Foot_Ctrl
+    400112: R_FootTip_Ctrl
+    400114: R_Hand_Ctrl
+    400116: R_Leg_IKgoal
+    400118: R_Thumb_ctrl
+    400120: Spine_IKgoal
     4300000: Forte
     7400000: Strong_Walk
     9500000: //RootNode
